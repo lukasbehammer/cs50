@@ -1,0 +1,6 @@
+cmake-build-debug/
+cs50.c
+cs50.h
+CMakeLists.txt
+lib/
+.idea/
